@@ -1,0 +1,25 @@
+Challenge 1 - Compatibility Issue
+
+Scenario: Your superior wants to leverage on serverless technology as it eliminates operational overheads but the software is not serverless ready.
+
+Proposed Solution: We can start making the software on premise. We then make a back up copy on cloud and slowly make adjustment to the software until it is fully compatible and functional on cloud before going live on cloud. 
+
+If the assumption is that our local IT team is not ready to do the migration, we can always either hire someone with the knowledge so the new staff can smoothen out the migration with their knowledge on cloud. Or, to have our staff trained on cloud skills before we start the migration process.
+
+
+Challenge 2: Vendor Lock-in
+
+Scenario: You have picked Cloud X as the destination of your migration only to find out that you'll better with Cloud Y as your technology scale.
+
+Proposed Solution: We can always re-migrate again to CLoud Y while keeping the software online. Only to shut down the software on Cloud X until the software on Cloud Y is fully migrated and functional to make sure that the software will not have downtime or issues. Cost of cloud services are always by runtime, as long as the cloud Y scalability benefit is larger than the costs and time spent on re-migrating it would be worth it.
+
+
+Challenge 3: Processes & Policies
+
+Scenario: Locally (in data center) configured security policies is not identical to the policies architecture in the Cloud. The deployment process of the current IT Operations Team may not fit well with the Cloud's.
+
+Under the assumption that our company will be migrating into Cloud, we can explore a few options to tackle this problem. 
+
+1. We can hire someone with the necessary Cloud skill to help the process the migration. Having someone with cloud skills and knowledge helps the team to have all different ideas and solutions to how to compromise the migration in the best method. This could be the fastest solution, however the new staff having little to none of the companies local congigured security policies may not be able to give the most suitable solution to the migration.
+
+2. We can also start having our local IT Operation Teams to take up Cloud courses and skills. Having our own IT operation team to pick up Cloud skills would be the most reliable solution; as they can combine their new found knowledge on cloud with our own software policies for the best solution.
